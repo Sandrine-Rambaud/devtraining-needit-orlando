@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <content><![CDATA[<h1 class="title topictitle1">Using the NeedIt List</h1>
+<h2 class="title sectiontitle">Première section</h2>
+<p>Malheureux celui auquel les souvenirs d’enfance n’apportent que crainte et tristesse. Misérable celui dont la mémoire est peuplée d’heures passées dans de vastes pièces solitaires et lugubres aux tentures brunâtres et aux alignements obsédants de livres antiques, et de longues veilles angoissées dans des bois crépusculaires composés d’arbres absurdes et gigantesques, chargés de lianes, qui, en silence, poussent toujours plus haut leurs bras sinueux.</p>
+<h2 class="title sectiontitle">Deuxième section</h2>
+<p>Tel est le lot que les dieux m’ont accordé – à moi, l’étonné, le banni, le déçu, le brisé. Et pourtant je me sens étrangement satisfait et m’accroche farouchement à ces souvenirs flétris lorsque mon esprit, pour un moment, menace d’aller au-delà, chercher ce qui est autre.</p>
+<div class="note tm-element"><span class="notetitle">Note: Je suis d&#39;ailleurs</span></div>
+<div class="video"><iframe src="https://www.youtube.com/watch?v&#61;DbRocGg6kbw" frameborder="0" allowfullscreen=""></iframe>
+<p class="p">Personalize NeedIt List</p>
+</div>
+<p> </p>]]></content>
+        <last_sync/>
+        <modifier>normal</modifier>
+        <name>NeedIt List - User</name>
+        <page>x_58872_needit_needit_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">4e42fb8d0fa83200cd674f8ce1050e72</role>
+        <role_order>1000</role_order>
+        <snc_created>false</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 13:58:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b5b201362fe030106e8b55f62799b605</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>NeedIt List - User</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_content_b5b201362fe030106e8b55f62799b605</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 14:27:19</sys_updated_on>
+        <version>all</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=b5b201362fe030106e8b55f62799b605"/>
+</record_update>
